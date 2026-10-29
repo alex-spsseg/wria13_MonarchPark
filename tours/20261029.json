@@ -2,74 +2,74 @@
   "name": "As-Built Site Visit",
   "sites": [
     {
-      "site_id": "img_20261029_142542_00_277",
-      "display_name": "Stop 1",
-      "lat": 46.90048541,
-      "lng": -122.76261248,
-      "alt": 94.84
-    },
-    {
       "site_id": "img_20261029_142609_00_278",
-      "display_name": "Stop 2",
+      "display_name": "Bridge: South View",
       "lat": 46.90057,
       "lng": -122.76259320004165,
       "alt": 95.27
     },
     {
       "site_id": "img_20261029_142631_00_279",
-      "display_name": "Stop 3",
+      "display_name": "Bridge: Deck View",
       "lat": 46.9006224,
       "lng": -122.76254676,
       "alt": 95.17
     },
     {
       "site_id": "img_20261029_142656_00_280",
-      "display_name": "Stop 4",
+      "display_name": "Bridge: North View",
       "lat": 46.900639,
       "lng": -122.762535,
       "alt": 95.46
     },
     {
-      "site_id": "img_20261029_142723_00_281",
-      "display_name": "Stop 5",
-      "lat": 46.90069952631382,
-      "lng": -122.76242752629173,
-      "alt": 92.48
-    },
-    {
-      "site_id": "img_20261029_142812_00_282",
-      "display_name": "Stop 6",
-      "lat": 46.90057887,
-      "lng": -122.7623181,
-      "alt": 93.06
-    },
-    {
-      "site_id": "img_20261029_142851_00_283",
-      "display_name": "Stop 7",
-      "lat": 46.90050831,
-      "lng": -122.76234224,
-      "alt": 93.44
-    },
-    {
-      "site_id": "img_20261029_143016_00_284",
-      "display_name": "Stop 8",
-      "lat": 46.9005862,
-      "lng": -122.76248038,
-      "alt": 90.29
-    },
-    {
       "site_id": "img_20261029_143052_00_285",
-      "display_name": "Stop 9",
+      "display_name": "Bridge: Stream View",
       "lat": 46.90062102,
       "lng": -122.7625528,
       "alt": 89.79
     },
     {
       "site_id": "img_20261029_143119_00_286",
-      "display_name": "Stop 10",
+      "display_name": "Bridge: Downstream View",
       "lat": 46.90066771428571,
       "lng": -122.76264477557027,
       "alt": 89.6
+    },
+    {
+      "site_id": "img_20261029_143016_00_284",
+      "display_name": "Bridge: Upstream View",
+      "lat": 46.9005862,
+      "lng": -122.76248038,
+      "alt": 90.29
+    },
+    {
+      "site_id": "img_20261029_142851_00_283",
+      "display_name": "Upstream View",
+      "lat": 46.90050831,
+      "lng": -122.76234224,
+      "alt": 93.44
+    },
+    {
+      "site_id": "img_20261029_142723_00_281",
+      "display_name": "Road: North View",
+      "lat": 46.90069952631382,
+      "lng": -122.76242752629173,
+      "alt": 92.48
+    },
+    {
+      "site_id": "img_20261029_142542_00_277",
+      "display_name": "Road: South View",
+      "lat": 46.90048541,
+      "lng": -122.76261248,
+      "alt": 94.84
+    },
+    {
+      "site_id": "img_20261029_142812_00_282",
+      "display_name": "Ponded Water",
+      "lat": 46.90057887,
+      "lng": -122.7623181,
+      "alt": 93.06
     }
   ],
   "basemap_type": "xyz_tile",

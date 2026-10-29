@@ -12,9 +12,9 @@
   "autorotate": false,
   "hotspots_1": [
     {
-      "yaw": 0.6825075302693585,
-      "pitch": 0.0,
-      "title": "Stop 4 \u00b7 11 m",
+      "yaw": 0.4481586635805783,
+      "pitch": 0.1549002616997619,
+      "title": "Bridge: North View \u00b7 11 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -23,9 +23,20 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 0.10954876006741252,
-      "pitch": 0.0,
-      "title": "Stop 8 \u00b7 13 m",
+      "yaw": 0.43919879897944725,
+      "pitch": 0.07362213548850605,
+      "title": "Bridge: Deck View \u00b7 12 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142631_00_279",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 0.0015776390254291783,
+      "pitch": 0.08604313553900411,
+      "title": "Bridge: Upstream View \u00b7 13 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -34,9 +45,9 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 5.529483556792331,
-      "pitch": 0.0,
-      "title": "Stop 6 \u00b7 16 m",
+      "yaw": -0.7643452009655292,
+      "pitch": 0.10878631001962447,
+      "title": "Ponded Water \u00b7 16 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -45,14 +56,47 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 1.1607375374517144,
-      "pitch": 0.0,
-      "title": "Stop 10 \u00b7 17 m",
+      "yaw": 1.0953581293341532,
+      "pitch": 0.07907454430277738,
+      "title": "Bridge: Downstream View \u00b7 17 m",
       "text": "",
       "link": "",
       "category": "link",
       "pin_style": "label_hover",
       "target": "img_20261029_143119_00_286",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 0.45568261863829207,
+      "pitch": 0.027028988661639275,
+      "title": "Bridge: South View \u00b7 19 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142609_00_278",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": -0.47284008869355176,
+      "pitch": 0.04343956637080737,
+      "title": "Upstream View \u00b7 22 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142851_00_283",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 0.16099731135480333,
+      "pitch": 0.010707496421639817,
+      "title": "Road: South View \u00b7 28 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142542_00_277",
       "link_icon": "ground"
     }
   ],

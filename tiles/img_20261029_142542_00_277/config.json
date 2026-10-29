@@ -1,8 +1,8 @@
 {
   "mode": "single",
   "format": "raw",
-  "yaw_1": 0.0,
-  "pitch_1": 0.0,
+  "yaw_1": 2.5993763275026325,
+  "pitch_1": 0.19460514888543656,
   "yaw_2": 0.0,
   "pitch_2": 0.0,
   "lat": 46.90048541,
@@ -12,9 +12,9 @@
   "autorotate": false,
   "hotspots_1": [
     {
-      "yaw": 6.220006288194405,
-      "pitch": 0.0,
-      "title": "Stop 2 \u00b7 10 m",
+      "yaw": -0.06611042883628748,
+      "pitch": 0.12475442315306395,
+      "title": "Bridge: South View \u00b7 10 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -23,9 +23,9 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 0.5126643345215126,
-      "pitch": 0.0,
-      "title": "Stop 8 \u00b7 15 m",
+      "yaw": 0.5088302501662412,
+      "pitch": 0.13106477621538382,
+      "title": "Bridge: Upstream View \u00b7 15 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -34,9 +34,42 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 5.945059654672917,
-      "pitch": 0.0,
-      "title": "Stop 10 \u00b7 20 m",
+      "yaw": 0.16305718939079838,
+      "pitch": 0.151579717034938,
+      "title": "Bridge: Stream View \u00b7 16 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_143052_00_285",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 0.14794053813565533,
+      "pitch": 0.049371021674794235,
+      "title": "Bridge: Deck View \u00b7 16 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142631_00_279",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 0.2668899297704179,
+      "pitch": -0.006550892776338912,
+      "title": "Bridge: North View \u00b7 18 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142656_00_280",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": -0.3587733063057108,
+      "pitch": 0.05980347380768691,
+      "title": "Bridge: Downstream View \u00b7 20 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -45,14 +78,36 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 1.2297338622725762,
-      "pitch": 0.0,
-      "title": "Stop 7 \u00b7 21 m",
+      "yaw": 1.2338457718850897,
+      "pitch": 0.09445731050771933,
+      "title": "Upstream View \u00b7 21 m",
       "text": "",
       "link": "",
       "category": "link",
       "pin_style": "label_hover",
       "target": "img_20261029_142851_00_283",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 0.911253840353849,
+      "pitch": 0.044404364333731294,
+      "title": "Ponded Water \u00b7 25 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142812_00_282",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 0.3131158765373776,
+      "pitch": -0.03999358128323216,
+      "title": "Road: North View \u00b7 28 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142723_00_281",
       "link_icon": "ground"
     }
   ],

@@ -1,8 +1,8 @@
 {
   "mode": "single",
   "format": "raw",
-  "yaw_1": 0.0,
-  "pitch_1": 0.0,
+  "yaw_1": 3.0307310119703725,
+  "pitch_1": 0.4252251228495645,
   "yaw_2": 0.0,
   "pitch_2": 0.0,
   "lat": 46.90066771428571,
@@ -12,9 +12,9 @@
   "autorotate": false,
   "hotspots_1": [
     {
-      "yaw": 3.0228054025475877,
-      "pitch": 0.0,
-      "title": "Stop 9 \u00b7 9 m",
+      "yaw": 3.016987609850533,
+      "pitch": 0.3646243822074382,
+      "title": "Bridge: Stream View \u00b7 9 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -23,9 +23,9 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 2.7494002385678473,
-      "pitch": 0.0,
-      "title": "Stop 4 \u00b7 9 m",
+      "yaw": 2.3244605049508156,
+      "pitch": 0.05333565115287442,
+      "title": "Bridge: North View \u00b7 9 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -34,9 +34,20 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 3.6084586123002134,
-      "pitch": 0.0,
-      "title": "Stop 2 \u00b7 12 m",
+      "yaw": 3.011891633930981,
+      "pitch": 0.07046710196372707,
+      "title": "Bridge: Deck View \u00b7 9 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_142631_00_279",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": -2.3862125929376283,
+      "pitch": 0.006682667132942299,
+      "title": "Bridge: South View \u00b7 12 m",
       "text": "",
       "link": "",
       "category": "link",
@@ -45,9 +56,20 @@
       "link_icon": "ground"
     },
     {
-      "yaw": 2.172667151190858,
-      "pitch": 0.0,
-      "title": "Stop 5 \u00b7 17 m",
+      "yaw": 3.0876406036989117,
+      "pitch": 0.005822990254088722,
+      "title": "Bridge: Upstream View \u00b7 15 m",
+      "text": "",
+      "link": "",
+      "category": "link",
+      "pin_style": "label_hover",
+      "target": "img_20261029_143016_00_284",
+      "link_icon": "ground"
+    },
+    {
+      "yaw": 1.8978610957293434,
+      "pitch": 0.04440310527084712,
+      "title": "Road: North View \u00b7 17 m",
       "text": "",
       "link": "",
       "category": "link",
