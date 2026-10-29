@@ -1,0 +1,31 @@
+{
+  "mode": "single",
+  "format": "raw",
+  "yaw_1": 0.0,
+  "pitch_1": 0.0,
+  "yaw_2": 0.0,
+  "pitch_2": 0.0,
+  "lat": 46.90048541,
+  "lng": -122.76261248,
+  "label_1": "IMG_20261029_142542_00_277 (2026/10/29)",
+  "label_2": "",
+  "autorotate": false,
+  "hotspots_1": [],
+  "hotspots_2": [],
+  "levels_1": [],
+  "levels_2": [],
+  "pin_style": "dot",
+  "basemap_type": "xyz_tile",
+  "basemap_url": "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+  "mobile_1": 5000,
+  "mobile_2": 0,
+  "heading_offset": 12.47156270062868,
+  "overlays": [],
+  "alt_checked": true,
+  "alt": 94.84,
+  "gps_original": [
+    46.900508125,
+    -122.76263387500428
+  ],
+  "heading_confirmed": true
+}
